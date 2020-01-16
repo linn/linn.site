@@ -1,0 +1,9 @@
+markdown: kramdown
+baseurl: '/linn.site'
+title:  'Linn'
+tagline: 'choose music and control your system'
+url: 'https://github.com/linn/linn.site'
+permalink: pretty
+description: 'Linn is Linn’s latest control app to select and play music on your Linn system on iPad and iPhone.<ul><li>browse music by album art in ‘tile’ view</li><li>find music quickly using search*</li> <li>group rooms together and browse classical music by composer</li></ul>
+<small>*Search functionality requires Kazoo Server</small>'
+homeurl: 'http://linn.github.io/linn.site/'
