@@ -5,5 +5,4 @@ tagline: 'quick and easy control of your Linn system'
 url: 'https://github.com/linn/linn.site'
 permalink: pretty
 description: 'Linn is the quickest, easiest and most enjoyable way to control a Linn Music System, whether you have one or multiple systems throughout your home.<ul><li>Access to everything at your fingertips</li><li>Global Search</li><li>Easy access to lossless streaming services</li><li>Access your playlists from anywhere</li><li>Update your system from the app</li><li>Take control of every room</li></ul>
-<small>*Search functionality requires Kazoo Server</small>'
 homeurl: 'http://linn.github.io/linn.site/'
