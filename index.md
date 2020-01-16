@@ -5,4 +5,4 @@ title: Linn User Guide
 
 # Linn Quickstart Guide
 
-![Overview](images/Overview.png)
+![Overview](images/Overview.png =350x)
