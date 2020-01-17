@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linn User Guide
+title: Linn Quickstart Guide
 ---
 
 # Linn Quickstart Guide
