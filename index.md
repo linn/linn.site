@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Linn Quickstart Guide
+title: Quickstart Guide
 ---
 
-# Linn Quickstart Guide
+# Quickstart Guide
 
 ![Overview](images/Overview.png){:style="margin-left:auto;margin-right:auto" width="350px"}
