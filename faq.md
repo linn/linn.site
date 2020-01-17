@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 ---
 
-## Group rooms in the Linn app
+## How to group rooms in the Linn app
 
 Grouping two or more systems together allows the systems to play the same music in perfect synchronisation.
 
