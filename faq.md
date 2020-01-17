@@ -37,3 +37,8 @@ Alternatively,
 
 1. From the Browse tab, Tap 'Edit'
 2. Swipe or tap the delete icon on the source you would like to remove
+
+# How to update your Linn system
+
+1. Tap the house icon
+2. Tap 'Update Systems', if there are any updates available, tap 'Update All'
