@@ -5,5 +5,5 @@ title: Linn User Guide
 
 # Linn Quickstart Guide
 
-{:text-align="center"}
+{:style="text-align: center;"}
 ![Overview](images/Overview.png){:width="350px"}
